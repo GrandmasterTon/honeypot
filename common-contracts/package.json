@@ -51,7 +51,7 @@
         "test:coverage": "Run test coverage report"
     },
     "dependencies": {
-        "@openzeppelin/contracts": "^4.9.2"
+        "@openzeppelin/contracts": "^4.9.6"
     },
     "devDependencies": {
         "@ethersproject/abi": "^5",
